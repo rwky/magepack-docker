@@ -1,10 +1,5 @@
 # magepack-docker
-<!--![Docker Automated build](https://img.shields.io/docker/automated/rwky/magepack)
-![Docker Build Status](https://img.shields.io/docker/build/rwky/magepack)
--->
 [Magepack in a docker image](https://github.com/magesuite/magepack)
-
-[Docker image](https://hub.docker.com/r/rwky/magepack)
 
 Usage:
 
